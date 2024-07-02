@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## 👍🏻 About
+## 👋🏻 I'am
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
