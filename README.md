@@ -13,8 +13,8 @@
 <br>
 
 ## 💻 products
-- 鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
-- 
+###鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
+ 
 ![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
 
 
