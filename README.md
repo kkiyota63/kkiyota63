@@ -7,12 +7,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 # 👋🏻 I'am
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🧑‍💻 I am an engineer, UI/UX designer and data scientist.
+- 🔭 I like astronomy. Recently, I am studying to analyze data from the universe.
+- 📫 How to reach me: mailto:kko6o3@icloud.com
 <br>
 
-# 💻 products
+# 💻 Products
 ### 鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
  
 ![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
