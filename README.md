@@ -8,6 +8,7 @@
 # 👋🏻 I'am
 
 - 🧑‍💻 I am an engineer, UI/UX designer and data scientist.
+- ⚔️ My strength lies in my ability to approach data from multiple perspectives and layers of knowledge.
 - 🔭 I like astronomy. Recently, I am studying to analyze data from the universe.
 - 📫 How to reach me: mailto:kko6o3@icloud.com
 <br>
