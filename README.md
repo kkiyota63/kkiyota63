@@ -14,6 +14,13 @@
 - 📫 How to reach me: mailto:kko6o3@icloud.com
 <br>
 
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+# ✊🏻 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,mysql,postgresql,cpp,flutter,java,supabase,firebase,git,github,docker,anaconda,wordpress,linux,ubuntu,figma,notion" />
+<br>
+
 # 💻 Products
 ### 鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
 - フロントエンド：Flutter
@@ -28,14 +35,6 @@
 ![240613_アプリアプデ_X (1)](https://github.com/kkiyota63/kkiyota63/assets/82688821/06a8ba74-2b87-4da3-a90f-fca359b74e1f)
 
 ### WebアクセスデータとテキストデータをSQLで分析できる基盤を作成しました。
-
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-# ✊🏻 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,mysql,postgresql,cpp,flutter,java,supabase,firebase,git,github,docker,anaconda,wordpress,linux,ubuntu,figma,notion" />
-<br>
 
 
 
