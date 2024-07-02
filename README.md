@@ -12,12 +12,16 @@
 - 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
 <br>
 
+## products
+![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
+
+
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,mysql,c,flutter,java,figma,docker,anaconda,wordpress" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,mysql,c,flutter,java,docker,anaconda,wordpress,figma" />
 <br>
 
 
