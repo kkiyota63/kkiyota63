@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 # 👋🏻 I'am
 
-- 🧑‍💻 I am an engineer, UI/UX designer and data scientist.
+- 🧑‍💻 I am an Engineer, UI/UX Designer and DataScientist.
 - ⚔️ My strength lies in my ability to approach data from multiple perspectives and layers of knowledge.
 - 🔭 I like astronomy. Recently, I am studying to analyze data from the universe.
 - 📫 How to reach me: mailto:kko6o3@icloud.com
@@ -19,6 +19,8 @@
 ![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
 
 ![240613_アプリアプデ_X (1)](https://github.com/kkiyota63/kkiyota63/assets/82688821/06a8ba74-2b87-4da3-a90f-fca359b74e1f)
+
+### WebアクセスデータとテキストデータをSQLで分析できる基盤を作成しました。
 
 
 <!-- 3. 好きな技術スタックに変更 -->
