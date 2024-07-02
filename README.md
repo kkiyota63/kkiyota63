@@ -18,7 +18,7 @@
 - フロントエンド：Flutter
 - バックエンド：Firebaseを利用
 - コンテンツ管理：STUDIO
-- デザイン：Figma
+- UI/UXデザイン：Figma
 - 分析：GoolgeAnalytics
 - [AppStore　こちらのリンクからダウンロードいただけます](https://apps.apple.com/jp/app/kadai-info%E3%85%A4/id6477259715)
  
