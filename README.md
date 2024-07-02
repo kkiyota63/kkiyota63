@@ -5,31 +5,32 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## 👋🏻 I'am
+# 👋🏻 I'am
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
 - 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
 <br>
 
-## 💻 products
+# 💻 products
 ### 鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
  
 ![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
 
+![240613_アプリアプデ_X (1)](https://github.com/kkiyota63/kkiyota63/assets/82688821/06a8ba74-2b87-4da3-a90f-fca359b74e1f)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## ✊🏻 Skills
+# ✊🏻 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,mysql,c,flutter,java,docker,anaconda,wordpress,figma" />
 <br>
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
+# 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
