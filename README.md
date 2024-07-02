@@ -20,7 +20,7 @@
 - コンテンツ管理：STUDIO
 - デザイン：Figma
 - 分析：GoolgeAnalytics
-- [Appstore](https://apps.apple.com/jp/app/kadai-info%E3%85%A4/id6477259715)
+- [AppStore　こちらのリンクからダウンロードいただけます](https://apps.apple.com/jp/app/kadai-info%E3%85%A4/id6477259715)
  
 ![240410_Twitter post - 2](https://github.com/kkiyota63/kkiyota63/assets/82688821/1a1730d4-cca6-465d-8beb-2489cf71e732)
 
