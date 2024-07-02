@@ -19,9 +19,9 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 # ✊🏻 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,mysql,postgresql,cpp,flutter,java,supabase,firebase,git,github,docker,anaconda,wordpress,linux,ubuntu,figma,notion" />
-Webメディアのエンジニア、UI/UXデザイナー、データ分析
-機械学習を用いた動画像処理の研究
-基本情報技術者試験
+- Webメディアのエンジニア、UI/UXデザイナー、データ分析
+- 機械学習を用いた動画像処理の研究
+- 基本情報技術者試験
 <br>
 
 # 💻 Products
