@@ -16,7 +16,7 @@
 # 💻 Products
 ### 鹿児島大学の大学生をターゲットとしたメディア「KADAI INFO」のiOSアプリをリリースしました。
 - フロントエンド：Flutter
-- バックエンド：Firebaseを利用
+- バックエンド：Firebase
 - コンテンツ管理：STUDIO
 - UI/UXデザイン：Figma
 - 分析：GoolgeAnalytics
