@@ -39,6 +39,13 @@
 ![240613_アプリアプデ_X (1)](https://github.com/kkiyota63/kkiyota63/assets/82688821/06a8ba74-2b87-4da3-a90f-fca359b74e1f)
 
 ### WebアクセスデータとテキストデータをSQLで分析できる基盤を作成しました。
+技術スタック
+- Python
+- MySQL
+- GoogleAppScript
+- GoogleColudConsoleAPI
+- AlmaLinux
+- SSH
 ![DataAnalysisPlatform](https://github.com/kkiyota63/kkiyota63/assets/82688821/05a7e489-546d-4bfe-acaf-e4422fda7068)
 
 
