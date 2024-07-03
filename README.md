@@ -46,6 +46,7 @@
 - GoogleColudConsoleAPI
 - AlmaLinux
 - SSH
+  
 ![DataAnalysisPlatform](https://github.com/kkiyota63/kkiyota63/assets/82688821/05a7e489-546d-4bfe-acaf-e4422fda7068)
 
 
