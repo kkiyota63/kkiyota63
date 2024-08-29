@@ -5,7 +5,7 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-# 👋🏻 I'am
+# 👋🏻 I am
 
 - 🧑🏻‍💻 I am an Engineer, UI/UX Designer and DataScientist.
 - 👨🏻‍🎓 I am a student at Kagoshima University.
